@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Computer Science graduate here with a keen interest in software development. I develop desktop applications and web applications and take on random projects or freelancing projects. Currently in the stage of uploading previous projects on GitHub. 
+Computer Science graduate here with a keen interest in software development. I tend to develop desktop applications and web applications and take on random and ambitious projects or work on freelancing projects. Currently in the stage of uploading previous projects on GitHub. 
 
 **Love working with**
 
