@@ -17,6 +17,7 @@ Computer Science graduate here with a keen interest in software development. I t
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white" alt="Capacitor"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </div>
 
 ### 🔭 Currently working on
